@@ -1,0 +1,20 @@
+item { 
+	name:'Hello'
+	id:1
+}
+item { 
+	name:'Love'
+	id:2
+}
+item { 
+	name:'Thanks'
+	id:3
+}
+item { 
+	name:'Thumbs_down'
+	id:4
+}
+item { 
+	name:'Thumbs_up'
+	id:5
+}

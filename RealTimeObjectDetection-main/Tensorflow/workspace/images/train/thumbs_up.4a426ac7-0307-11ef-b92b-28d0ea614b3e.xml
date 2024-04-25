@@ -1,7 +1,7 @@
 <annotation>
-	<folder>collectedimages</folder>
+	<folder>train</folder>
 	<filename>thumbs_up.4a426ac7-0307-11ef-b92b-28d0ea614b3e.jpg</filename>
-	<path>C:\Users\larsh\Desktop\Computer Vision\CV_Hand_Detection\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\thumbs_up.4a426ac7-0307-11ef-b92b-28d0ea614b3e.jpg</path>
+	<path>C:\Users\larsh\Desktop\Computer Vision\CV_Hand_Detection\RealTimeObjectDetection-main\Tensorflow\workspace\images\train\thumbs_up.4a426ac7-0307-11ef-b92b-28d0ea614b3e.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>71</xmin>
-			<ymin>217</ymin>
+			<ymin>218</ymin>
 			<xmax>175</xmax>
-			<ymax>367</ymax>
+			<ymax>368</ymax>
 		</bndbox>
 	</object>
 </annotation>
