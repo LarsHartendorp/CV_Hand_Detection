@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thumbs_up.4b783bfe-0307-11ef-b5b6-28d0ea614b3e.jpg</filename>
+	<path>C:\Users\larsh\Desktop\Computer Vision\CV_Hand_Detection\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\thumbs_up.4b783bfe-0307-11ef-b5b6-28d0ea614b3e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thumbs Up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>211</ymin>
+			<xmax>174</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>
